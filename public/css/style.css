@@ -1,0 +1,13 @@
+.margin-t-15 {
+    margin-top: 15px;
+}
+.margin-b-50 {
+    margin-bottom: 50px;
+}
+.page-link {
+    color: #6c757d;
+}
+.page-item.active .page-link {
+    background-color: #6c757d;
+    border-color: #6c757d;
+}
